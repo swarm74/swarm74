@@ -18,5 +18,5 @@ Full-stack developer / Guitarist
 ---
 
 ### Contact
-  <img src="https://lanyard.cnrad.dev/api/1182402282466332724?theme=dark" alt="Discord Presence" />
-* [Instagram](https://instagram.com/soon22be)
+<img src="https://lanyard.cnrad.dev/api/1182402282466332724?theme=dark" alt="Discord Presence" />
+https://instagram.com/soon22be
