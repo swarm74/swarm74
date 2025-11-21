@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name]! 👋
+# Swarm
 
 Full-stack developer / Guitarist
 
@@ -17,6 +17,8 @@ Full-stack developer / Guitarist
 
 ---
 
-### 📫 Connect with me
-* [Discord](https://api.lanyard.rest/v1/users/${1182402282466332724)
+### Contact
+<a
+  <img src="https://lanyard.cnrad.dev/api/1182402282466332724?theme=dark" alt="Discord Presence" />
+</a>
 * [Instagram](https://instagram.com/soon22be)
